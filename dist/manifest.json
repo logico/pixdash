@@ -1,0 +1,117 @@
+{
+    "dir": "ltr",
+    "lang": "es-AR",
+    "name": "PixDash",
+    "scope": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "short_name": "PixDash",
+    "theme_color": "#1D1D1D",
+    "description": "Retro game dashboard",
+    "orientation": "natural",
+    "background_color": "#FFFFFF",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/img/icons/apple-touch-icon.png",
+            "type": "image/png",
+            "sizes": "350x350"
+        },
+        {
+            "src": "/img/icons/097ace7f-f598-b417-4591-23a5cfebd839.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/98f43a0a-7990-715f-900e-61bcc80f3028.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/82c8a835-de61-14a6-b72a-eb7cf2e86916.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/77d932a1-6eea-db1c-abaa-abb7fad662f9.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/c672efac-0d48-0212-af98-2253af710228.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/47449526-a631-bcd6-ba32-4250746fa458.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/e97a6ab9-70e0-0ccf-142f-382c0ec83187.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/9188a5f2-fe7d-e4c2-96d8-1619dbe7ef07.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/13899b38-956b-e3a3-f2bf-f9ede6efc105.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/3349abc1-b713-e16b-77ef-954033a800fc.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/01803491-43dd-82ea-ee68-af91698ab15a.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/51900374-f9ff-0be6-9254-7abbf47377d0.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/ef4adf87-3914-7f32-08d4-bb1d835a7f32.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/06746536-daec-e594-e9ef-645ca71e51a9.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/698495aa-6b77-11de-08f3-66dbbf0c4b70.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/adde1579-5aa6-b22a-e2e5-6eab701e3c9b.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/73f0273d-f545-99b9-8989-f58706c24be8.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/89edc69d-d9c7-3739-e7ef-3fa7f14ed80a.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/icons/eb472857-76bb-b832-e2ca-89113655c8ba.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
